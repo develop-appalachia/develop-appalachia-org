@@ -11,7 +11,7 @@ function App() {
           {" "}
           <h1>Develop Appalachia</h1>
         </Headroom>
-        <div className="BigBox">hello world</div>
+        <div className="BigBox">hel</div>
         <FooterPage />
       </body>
     </div>
