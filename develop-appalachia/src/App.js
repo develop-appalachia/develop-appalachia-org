@@ -11,7 +11,14 @@ function App() {
           {" "}
           <h1>Develop Appalachia</h1>
         </Headroom>
-        <div className="BigBox">hel</div>
+        <div className="BigBox">
+          <img
+            className="banner"
+            src="https://www.google.com/logos/doodles/2019/2019-womens-world-cup-day-5-5578446944600064-law.gif"
+          />
+          <br />
+          hello world
+        </div>
         <FooterPage />
       </body>
     </div>
